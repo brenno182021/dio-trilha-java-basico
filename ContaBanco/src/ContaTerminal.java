@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class ContaTerminal {
 
     public static void main(String[] args) throws Exception {
-        // TODO: Conhecer e importar a classe Scanner
 
         String agencia = "067-8";
         Double saldo = 237.48;
@@ -21,6 +20,8 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o número da Agência !");
         Integer numero = sc.nextInt();
         sc.nextLine();
+
+        sc.close();
 
         // Exibir a mensagem conta criada
         System.out.println("----------------------------------------------------");
