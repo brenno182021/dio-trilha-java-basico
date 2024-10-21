@@ -1,7 +1,5 @@
 package main.java.list.Pesquisa;
 
-import java.util.List;
-
 public class Livro {
     private String titulo;
     private String autor;
