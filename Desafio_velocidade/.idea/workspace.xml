@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e029a4ef-effe-497a-9d47-117444024a6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/src/Main.java" afterDir="false" />
+    <list default="true" id="569e5abc-bf19-4544-96e5-536c19e76bce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desafio-dio-POO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio-dio-POO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioStreamAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesafioStreamAPI/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +19,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2nnbjyWMU5GcoufOuJYx179i3JJ" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2nqZmxUaOp7mGU513jogu9PGmBY" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,19 +30,19 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/programacao/dio/dio-trilha-java-basico/DesafioStreamAPI/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/programacao/dio/dio-trilha-java-basico/Desafio_velocidade/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DesafioStreamAPI" />
+      <module name="Desafio_velocidade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,11 +56,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e029a4ef-effe-497a-9d47-117444024a6d" name="Changes" comment="" />
-      <created>1729611925674</created>
+      <changelist id="569e5abc-bf19-4544-96e5-536c19e76bce" name="Changes" comment="" />
+      <created>1729702728945</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729611925674</updated>
+      <updated>1729702728945</updated>
     </task>
     <servers />
   </component>

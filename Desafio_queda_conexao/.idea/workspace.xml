@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e029a4ef-effe-497a-9d47-117444024a6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/src/Main.java" afterDir="false" />
+    <list default="true" id="c919a462-eac2-4eb3-86bb-8c923e182307" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desafio-dio-POO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio-dio-POO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioStreamAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesafioStreamAPI/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2nnbjyWMU5GcoufOuJYx179i3JJ" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2nqbUjcpqVfDWdnyyZkzGpJA2fW" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,19 +33,19 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/programacao/dio/dio-trilha-java-basico/DesafioStreamAPI/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/programacao/dio/dio-trilha-java-basico/Desafio_queda_conexao/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DesafioStreamAPI" />
+      <module name="Desafio_queda_conexao" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,12 +59,23 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e029a4ef-effe-497a-9d47-117444024a6d" name="Changes" comment="" />
-      <created>1729611925674</created>
+      <changelist id="c919a462-eac2-4eb3-86bb-8c923e182307" name="Changes" comment="" />
+      <created>1729703571082</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729611925674</updated>
+      <updated>1729703571082</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
