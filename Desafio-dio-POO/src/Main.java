@@ -1,15 +1,63 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import br.com.dio.desafio.dominio.*;
+
+import java.time.LocalDate;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        Curso curso1 = new Curso();
+        curso1.setTitulo("curso Java");
+        curso1.setDescricao("descricao curso java");
+        curso1.setCargaHoraria(8);
+
+        Curso curso2 = new Curso();
+        curso2.setTitulo("curso Js");
+        curso2.setDescricao("descricao curso js");
+        curso2.setCargaHoraria(4);
+
+        Conteudo conteudo = new Curso();
+        Conteudo conteudo1 = new Mentoria();
+
+        Mentoria mentoria1 = new Mentoria();
+        mentoria1.setTitulo("mentoria de java");
+        mentoria1.setDescricao("descrocap mentoria de java");
+        mentoria1.setData((LocalDate.now()));
+
+//        System.out.println(curso1);
+//        System.out.println(curso2);
+//        System.out.println(mentoria1);
+
+        Bootcamp bootcamp = new Bootcamp();
+        bootcamp.setNome("Bootcamp Java Developer");
+        bootcamp.setDescricao("Descrição bootcamp java developer");
+        bootcamp.getConteudos().add(curso1);
+        bootcamp.getConteudos().add(curso2);
+        bootcamp.getConteudos().add(mentoria1);
+
+        Dev devGlayson = new Dev();
+        devGlayson.setNome("glayson");
+        devGlayson.inscreverBootcamp(bootcamp);
+        System.out.println("Conteudo inscritos "+devGlayson.getNome()+": " + devGlayson.getConteudosInscritos());
+        devGlayson.progredir();
+        devGlayson.progredir();
+        devGlayson.progredir();
+        System.out.println("-");
+        System.out.println("Conteudo inscritos "+devGlayson.getNome()+": " + devGlayson.getConteudosInscritos());
+        System.out.println("Conteudo Concluidos "+devGlayson.getNome()+": " + devGlayson.getConteudosConcluidos());
+        System.out.println("XP: " + devGlayson.calcularTotalXp());
+
+
+        System.out.println("------------------------");
+        Dev devJoao = new Dev();
+        devJoao.setNome("Joao");
+        devJoao.inscreverBootcamp(bootcamp);
+        System.out.println("Conteudo inscritos "+devJoao.getNome()+": " + devJoao.getConteudosInscritos());
+        devJoao.progredir();
+        System.out.println("-");
+        System.out.println("Conteudo inscritos "+devJoao.getNome()+": " + devJoao.getConteudosInscritos());
+        System.out.println("Conteudo Concluidos "+devJoao.getNome()+": " + devJoao.getConteudosConcluidos());
+        System.out.println("XP: " + devJoao.calcularTotalXp());
+
+
     }
 }
