@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e029a4ef-effe-497a-9d47-117444024a6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-dio-POO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio-dio-POO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio_queda_conexao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio_queda_conexao/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

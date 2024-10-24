@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c919a462-eac2-4eb3-86bb-8c923e182307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desafio_velocidade/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-dio-POO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio-dio-POO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioStreamAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesafioStreamAPI/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c919a462-eac2-4eb3-86bb-8c923e182307" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
