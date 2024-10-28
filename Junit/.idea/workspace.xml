@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e987b748-5c77-4b56-8955-0e26a4f5781a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2o4peHNkuBa0HuzzLXfBliAYYDU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AssumptionsTeste.validarAlgoSomenteNoUsuarioWillyan.executor": "Run",
+    "JUnit.CondicionaisTeste.executor": "Run",
+    "JUnit.CondicionaisTeste.validarAlgoSomenteNoUsuarioWillyan.executor": "Run",
+    "JUnit.ConsultarDadosDePessoaTest.executor": "Run",
+    "JUnit.ContaTest.executor": "Run",
+    "JUnit.ContaTest.validarLancamentos.executor": "Run",
+    "JUnit.ContaTest.validarNumerosDeTiposDiferentes.executor": "Run",
+    "JUnit.ContaTest.validarSeObjetoEstaNulo.executor": "Run",
+    "JUnit.EscolhendoAOrdemTeste.executor": "Run",
+    "JUnit.ExceptionsTeste.executor": "Run",
+    "JUnit.ExceptionsTeste.validarCenarioDeExcecaoNaTransferencia.executor": "Run",
+    "JUnit.PessoaTest.validarCalculoDeIdade.executor": "Run",
+    "JUnit.PessoaTest.validarMaiorDeIdade.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/programacao/dio/dio-trilha-java-basico/Junit/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EscolhendoAOrdemTeste">
+    <configuration name="CondicionaisTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CondicionaisTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CondicionaisTeste.validarAlgoSomenteNoUsuarioWillyan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CondicionaisTeste" />
+      <option name="METHOD_NAME" value="validarAlgoSomenteNoUsuarioWillyan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscolhendoAOrdemTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EscolhendoAOrdemTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionsTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionsTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionsTeste.validarCenarioDeExcecaoNaTransferencia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionsTeste" />
+      <option name="METHOD_NAME" value="validarCenarioDeExcecaoNaTransferencia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EscolhendoAOrdemTeste" />
+        <item itemvalue="JUnit.ExceptionsTeste.validarCenarioDeExcecaoNaTransferencia" />
+        <item itemvalue="JUnit.ExceptionsTeste" />
+        <item itemvalue="JUnit.CondicionaisTeste" />
+        <item itemvalue="JUnit.CondicionaisTeste.validarAlgoSomenteNoUsuarioWillyan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e987b748-5c77-4b56-8955-0e26a4f5781a" name="Changes" comment="" />
+      <created>1730138795502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730138795502</updated>
+    </task>
+    <servers />
+  </component>
+</project>
